@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1bdfaa83-1eb2-4f3b-b56b-e72a8ee23c29)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 127 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b20eb58e-24b3-4890-a2b5-d404c52b4de2)
+    (property "Sheetname" "mikrophonie_v2_panel_3" (at 127 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mikrophonie_v2_panel_3.kicad_sch" (at 127 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "mikrophonie_v2_panel"
+        (path "/1bdfaa83-1eb2-4f3b-b56b-e72a8ee23c29" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 25.4 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b8a5be1e-cf64-4ad7-8788-369257ad6ca9)
+    (property "Sheetname" "mikrophonie_v2_panel_1" (at 25.4 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mikrophonie_v2_panel_1.kicad_sch" (at 25.4 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "mikrophonie_v2_panel"
+        (path "/1bdfaa83-1eb2-4f3b-b56b-e72a8ee23c29" (page "1"))
+      )
+    )
+  )
+
+  (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
+    (stroke (width 0) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid cf999d3b-4e63-4064-8476-b02c410599a5)
+    (property "Sheetname" "mikrophonie_v2_panel_2" (at 76.2 24.6884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mikrophonie_v2_panel_2.kicad_sch" (at 76.2 29.7946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "mikrophonie_v2_panel"
+        (path "/1bdfaa83-1eb2-4f3b-b56b-e72a8ee23c29" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

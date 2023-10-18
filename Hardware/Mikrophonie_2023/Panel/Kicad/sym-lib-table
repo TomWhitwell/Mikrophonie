@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "mikrophonie_v2_panel-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/mikrophonie_v2_panel-eagle-import.kicad_sym")(options "")(descr ""))
+)
